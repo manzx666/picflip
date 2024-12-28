@@ -23,7 +23,7 @@ characters that children enjoy, with an overall feel of child friendly entertain
     - [**Parental goals**](#parental-goals)
     - [**Developer and Business Goals**](#developer-and-Business-Goals)
     - [**User Stories**](#user-stories)
-    - [**Design choices**](#design-choices)
+    - [**Design choices**](#design-choices).
     - [**Wireframes**](#wireframes)
 
 2. [**Features**](#features)
